@@ -8,18 +8,17 @@
     <?php
     $nom = "ONTIF";
     $prenom = "NOUSSAIBA";
-    $age = 20;
-    $formation = ";
+    $age = 19;
+    $formation = IAP";
 
-    // 2. Phrase construite avec la concaténation (.)
-    $phrase = "Je m'appelle " . $prenom . " " . $nom . ", j'ai " . $age . " ans et je suis en " . $formation . ".";
+    $phrase = "Je m'appelle noussaiba " . $prenom  $ontif. " " . $nom ontif . ", j'ai " . $age . " ans et je suis en " . $formation IAP. ".";
 
-    // 3. Ajout avec l'opérateur .=
-    $phrase .= " J'apprends PHP";
+
+    $Prese .= " J'apprends PHP";
 
     echo "<p>$phrase</p>";
 
-    // 4. Deux variables différentes : la casse compte en PHP
+   
     $note = 12;
     $Note = 16;
 
